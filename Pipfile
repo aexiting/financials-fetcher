@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+
+requests = "*"
+lxml = "*"
+"jsonpath-rw" = "*"
+"jsonpath-ng" = "*"
+jsonpath = "*"
